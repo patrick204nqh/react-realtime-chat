@@ -1,0 +1,4 @@
+[submodule "react-realtime-chat"]
+	path = react-realtime-chat
+	url = https://github.com/patrick-nqh-bl/react-realtime-chat.git
+	branch = master
